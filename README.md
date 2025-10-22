@@ -4,4 +4,6 @@ Zakon o splošnem upravnem postopku1 sodi med temeljne procesne zakone slovenske
 https://pisrs.si/pregledPredpisa?id=ZAKO1603
 
 # Zakon o upravnem sporu - ZUS
+[Diagram poteka ZUS](ZUS.md)
+
 https://pisrs.si/pregledPredpisa?id=ZAKO4732
