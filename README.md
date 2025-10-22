@@ -9,6 +9,9 @@ Povezava na zakon: https://pisrs.si/pregledPredpisa?id=ZAKO1603
 ## Postopek izvršbe
 [Diagram poteka izvršbe](podprocesi/izvrsba.md)
 
+## Postopek pritožbe po izdani odločbi
+[Diagram poteka pritožbe](podprocesi/ZUP-pritozba.md)
+
 # Zakon o upravnem sporu - ZUS
 [Diagram poteka ZUS](ZUS.md)
 
