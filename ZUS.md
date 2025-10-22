@@ -6,6 +6,19 @@ spora. Prikazuje kaj so vhodi, kdo so stranke, kateri dokumenti so
 potrebni za odločanje. V grobem prikazuje osnovne aktivnosti in
 odločitve, ki jih mora sprejeti pristojno sodišče in po kateri
 veji lahko pridemo do konca ali rezultata.
+Tožbeni razlogi:
+- kršitev materialnega prava
+- nepravilna ali nepopolna ugotovitev dejanskega stanja
+- kršitev pravil postopka
+- ničnosti razlogi
+
+Tožba ne zadrži izvršitve, lahko se izda začasna odredba, če se lahko povzroči težko popravljiva škoda.
+Zahteve:
+- Odprava akta
+- ugotovitev nezakonistosti akta
+- molk organa
+- sprememba akta – spor polne juristikcije
+- ugotovitev nezakonitosti dejanj – prepoved nadaljevanja in opdrava posledic
 
 ```mermaid
 flowchart TD
