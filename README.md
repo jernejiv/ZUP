@@ -4,6 +4,8 @@ Zakon o splošnem upravnem postopku (ZUP) sodi med temeljne procesne zakone slov
 
 Povezava na zakon: https://pisrs.si/pregledPredpisa?id=ZAKO1603
 
+[Diagram poteka ZUP](ZUP-main-procedure.md)
+
 # Zakon o upravnem sporu - ZUS
 [Diagram poteka ZUS](ZUS.md)
 
