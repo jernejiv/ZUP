@@ -1,24 +1,21 @@
 # Diagram poteka za zakon o upravnem sporu – spremno besedilo.
 
-Razlaga:
-Diagram poteka v grobem prikazuje kako poteka postopek upravnega
-spora. Prikazuje kaj so vhodi, kdo so stranke, kateri dokumenti so
-potrebni za odločanje. V grobem prikazuje osnovne aktivnosti in
-odločitve, ki jih mora sprejeti pristojno sodišče in po kateri
-veji lahko pridemo do konca ali rezultata.
-Tožbeni razlogi:
-- kršitev materialnega prava
+Tožbeni razlogi, ki jih je potrebno navesti:- kršitev materialnega prava
 - nepravilna ali nepopolna ugotovitev dejanskega stanja
 - kršitev pravil postopka
 - ničnosti razlogi
 
-Tožba ne zadrži izvršitve, lahko se izda začasna odredba, če se lahko povzroči težko popravljiva škoda.
-Zahteve:
+Pri vlogi tožbe je potrebno navesti zahteve, na kaj se tožba nanaša:
 - Odprava akta
-- ugotovitev nezakonistosti akta
+- ugotovitev nezakonitosti akta
 - molk organa
 - sprememba akta – spor polne juristikcije
-- ugotovitev nezakonitosti dejanj – prepoved nadaljevanja in opdrava posledic
+- ugotovitev nezakonitosti dejanj – prepoved nadaljevanja in odprava posledic
+
+Nekaj pomembnih dejstev pri tožbah:
+- Tožba ne zadrži izvršitve, lahko se izda začasna odredba, če se lahko povzroči težko popravljiva škoda.
+
+Diagram poteka v grobem prikazuje kako poteka postopek upravnega spora. Prikazuje kaj so vhodi, kdo so stranke, kateri dokumenti so potrebni za odločanje. V grobem prikazuje osnovne aktivnosti in odločitve, ki jih mora sprejeti pristojno sodišče in po kateri veji lahko pridemo do konca ali rezultata.
 
 ```mermaid
 flowchart TD
