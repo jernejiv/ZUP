@@ -93,3 +93,140 @@ flowchart TD
     SOD3@{shape: doc}
     S7@{shape: doc}
 ```
+## Razredni diagram ZUS
+    
+```mermaid  
+classDiagram
+class UpravniAkt {
+    +String naziv
+    +Date datumIzdaje
+    +Organ izdalOrgan
+    +Boolean jeDokončan
+    +Boolean jeNičen
+    +odpravi()
+    +ugotoviNezakonitost()
+}
+
+class Sodišče {
+    +String naziv
+    +String sedež
+    +List~Senat~ senati
+    +List~Sodnik~ sodniki
+    +odločiOTožbi(Tožba)
+    +izdaSodbo()
+    +izdaSklep()
+}
+
+class UpravnoSodišče {
+    +krajevnaPristojsnot:[Celje, Nova Gorica, Maribor]
+    +odločiNaPrviStopnji(Tožba)
+    +določiPristojnostGledeNaTožnika()
+}
+
+class VrhovnoSodišče {
+    +odločiOPritožbi(Pritožba)
+    +odločiOReviziji(Revizija)
+}
+
+class Senat {
+    +List~Sodnik~ člani
+    +Sodnik predsednik
+    +odločiOZadevi()
+}
+
+class Sodnik {
+    +String ime
+    +String priimek
+    +Boolean jePredsednikSenata
+    +odločiPoSvojiPristojnosti()
+}
+
+class Tožba {
+    +String tožnik
+    +String toženec
+    +UpravniAkt izpodbijanAkt
+    +Date datumVložitve
+    +String razlog
+    +String predlogAliZahteva
+    +String storjenoDejanje()
+    +Boolean jeSprejeta()
+    +preveriFormalnePogoje()
+}
+
+class Pritožba {
+    +String pritožnik
+    +Sodba izpodbijanaSodba
+    +Date datumVložitve
+    +String razlog
+    +String zahteva
+    +preveriRok()
+}
+
+class Revizija {
+    +String revident
+    +Sodba izpodbijanaSodba
+    +Date datumVložitve
+    +String razlog
+    +preveriRok()
+}
+
+class Sodba {
+    +String izrek
+    +String obrazložitev
+    +Date datumIzdaje
+    +Boolean jePravnomočna
+    +razglasi()
+}
+
+class Sklep {
+    +String vsebina
+    +Date datumIzdaje
+    +izvrši()
+}
+
+class Stranka {
+    <<abstract>>
+    +String ime
+    +String naslov
+    +String vloga
+    +vložiTožbo(UpravniAkt)
+}
+
+class Tožnik {
+    +posameznik: Stranka
+    +vložiTožbo(UpravniAkt)
+}
+
+class Toženec {
+    +pravna oseba / prizadeta oseba / organ
+    +odgovoriNaTožbo(Tožba)
+}
+
+class ZastopnikJavnegaInteresa {
+    +vložiTožbo(UpravniAkt)
+}
+
+%% Odnosi
+UpravniAkt "1" -- "1" Organ : izdal
+Sodišče <|-- UpravnoSodišče
+Sodišče <|-- VrhovnoSodišče
+VrhovnoSodišče "1" -- "*" UpravnoSodišče : nadzira
+Sodišče "1" *-- "*" Senat : vsebuje
+Senat "1" *-- "*" Sodnik : sestavljen iz
+Sodnik "1" -- "1" Senat : predsednik
+Sodišče "1" -- "*" Tožba : obravnava
+Sodišče "1" -- "*" Sodba : izda
+Sodišče "1" -- "*" Sklep : izda
+Tožba "1" -- "1" UpravniAkt : izpodbija
+Tožba "1" -- "1" Tožnik : vložil
+Tožba "1" -- "1" Toženec : naslovljen na
+Tožba "1" -- "*" Pritožba : lahko vložena
+Sodba "1" -- "*" Pritožba : izpodbijana
+Sodba "1" -- "*" Revizija : izpodbijana
+Stranka <|-- Tožnik
+Stranka <|-- Toženec
+Tožnik <|-- ZastopnikJavnegaInteresa
+
+style Sodba stroke:#8eebee
+%% linkStyle 4 stroke:red;
+```
