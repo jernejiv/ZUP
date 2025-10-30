@@ -31,9 +31,11 @@ flowchart TD
         VI4 --> |denarna č294| IZV3[Organ opravi DAVČNO izvršbo]
             IZV3 --> KON
         VI4 --> |NEdenarna| IZV4{nedenarno}
-            IZV4--> |izvršba po drugih osebah| C297[Izvršba po drugih osebah č297]
+            IZV4 --> |Nalaganje denarnih kazni| C297A[Nalaga denarne kazni za prisilo]
+                C297A --> KON
+            IZV4 --> |izvršba po drugih osebah| C297[Izvršba po drugih osebah č297]
                 C297 --> KON
-            IZV4--> |izvršba s prisilitvijo| C298[Izvršba s prisilitvijo č298]
+            IZV4 --> |izvršba s prisilitvijo| C298[Izvršba s prisilitvijo č298]
                 C298 --> KON
     %% |Samo med uradnimi uravmi med 6 in 20.00| IZVD[Izvršilno dejanje]
     KON[Konec]
