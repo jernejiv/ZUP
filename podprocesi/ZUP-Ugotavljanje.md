@@ -3,9 +3,9 @@
 ```mermaid
 flowchart
 ZU[**Začetek ugotavljanja dejstev**]
-ZU --> ZD[Zbiranje in selekcija dokazov - prosta presoja dokazov č10]
-ZD --> |poseben postopek| ID[Dokazovanje  - Izvajanje dokazov č164]
-    ID --> |kontradiktornost| ZP[zaslišanje prič, sestavi vabilo č70]
+ZU --> |Uradna oseba/organ| ZD[Zbiranje in selekcija dokazov - prosta presoja dokazov č10]
+ZD --> |poseben postopek| ID[Dokazovanje  - Izvajanje dokazov po načelu materialne resnice č164]
+    ID --> |kontradiktornost| ZP[zaslišanje prič, strank, izvedencev, sestavi vabilo č70]
         ZP --> ZAP["Zapisnik ć74"]
         ZAP --> UDS
     ID --> |če ni predrago| OG[Ogled č199]
@@ -13,7 +13,7 @@ ZD --> |poseben postopek| ID[Dokazovanje  - Izvajanje dokazov č164]
     ID --> UDS[Ugotavljanje dejanskega stranja č139]
 ZD --> |Dejstvo za katero organ ni pristojen| PPPV[Prekinitev postopka in čakanje, da se razreši **predhodno vprašanje** pri drugem organu č147]
     PPPV --> DZ
-ZD --> |Skrajšan postopek<BR>dejansko stanje iz vloge ni sporno<BR>uradne evidence<BR>nujno javni interes<BR>zakonsko verjetna dejstva OK| DZ
+ZD --> |Skrajšan postopek<BR>dejansko stanje iz vloge ni sporno<BR>uradne evidence<BR>nujno javni interes<BR>zakonsko verjetna dejstva| DZ
 UDS --> DZ{Dokazi zbrani}
 DZ --> |DA| OD[Odločanje]
     OD --> UO[Ustna obravnava, seznanitev pred izdajo odločbe č146, č154-163]
@@ -58,4 +58,5 @@ style IS color:red
 linkStyle 0 stroke:red;
 linkStyle 1 stroke:red;
 linkStyle 5 stroke:red;
+
 ```
