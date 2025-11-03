@@ -2,12 +2,15 @@
 
 ```mermaid
 classDiagram
-class Oseba {
-    +id: String
-}
 
 class UdelezenecPostopka{
+    +organ: UradnaOseba
+    +stranka: Stranka[]
 }
+
+UradnaOseba --> "1" UdelezenecPostopka : vodi postopek
+UradnaOseba --> "1" UdelezenecPostopka : odloča v postopku
+UdelezenecPostopka "1" -- "*"  Stranka
 
 class FizičnaOseba{
     +ime: String
@@ -15,16 +18,14 @@ class FizičnaOseba{
     +Naslov: String
 }
 
-class pravnaOseba{
+class PravnaOseba{
     +Naziv: String
     +naslov: String
     +direktor: String
 }
 
 PravnaOseba --> ZakonitiZastopnik : ima po zakonu č48
-
-Oseba <|-- FizičnaOseba
-Oseba <|-- pravnaOseba
+ZakonitiZastopnik -->  Pooblaščenec: lahko pooblasti
 
 class StranskiUdelezenec{
     +ime: String
@@ -33,32 +34,31 @@ class StranskiUdelezenec{
 }
 
 class Stranka{
-  +opravlja dejanja v postopku()
+  +predlaga dokaze()
+  +vlaga in spreminja zahteve()
+  +se opredeljuje in zastavlja vprašanja()
 }
 
-UdelezenecPostopka "1" -- "*"  Stranka
+Stranka <|-- FizičnaOseba : Procesno sposobna in legitimna
 
-Stranka <-- Oseba : Procesno sposobna in legitimna
+FizičnaOseba <|-- StranskiUdelezenec : ima pravno korist in procesno sposobnost
+FizičnaOseba <|-- Pooblaščenec: je
 
-Oseba --> StranskiUdelezenec : ima pravno korist in procesno sposobnost
-Stranka <|-- StranskiUdelezenec : ima enake pravice
+
+Stranka <-- StranskiUdelezenec : ima enake pravice
 
 class ZakonitiZastopnik{
 }
 
-Stranka --> "1" ZakonitiZastopnik: ima po zakonu, če ni procesno sposeobna ... č47
-Stranka <-- "1" ZakonitiZastopnik: opravlja dejanja kot
-Oseba --> ZakonitiZastopnik: če ni procesno sposobna
-
+FizičnaOseba <|-- "1" ZakonitiZastopnik: ima po zakonu, če ni procesno sposeobna ... č47
+Stranka <|-- "1" ZakonitiZastopnik: opravlja dejanja kot
+Stranka <|-- Pooblaščenec: nastopa v okviru pooblastila kot
 
 class Pooblaščenec{
   +pisno pooblastilo
   +za katera dejanja postopka()
 }
 
-Stranka <-- "*" Pooblaščenec: ima pooblastilo
-FizičnaOseba --  Pooblaščenec: je lahko
-PravnaOseba --  Pooblaščenec: odvetniška družba ...
 
 class ZačasniZastopnik{
   +imenuje uradna oseba()
@@ -74,7 +74,7 @@ class Skupina{
  + stranka:Stranka[]
 }
 Skupina --> PredstavnikSkupine : ima
-PredstavnikSkupine --> Stranka : sodeluje kot
+PredstavnikSkupine --|> Stranka : sodeluje kot
 
 class Organ{
   + naziv: String
@@ -88,9 +88,11 @@ class Organ{
 class UradnaOseba{
   +izbrana za Vodenje:FizičnaOseba
   +izbrana za Odločanje:FizičnaOseba
+  +izdaja odločbe in sklepe()
+  +opravlja dejanja v postopku()
 }
 
-PooblaščeniZaposlen <-- FizičnaOseba
+%% PooblaščeniZaposlen <-- FizičnaOseba
 UradnaOseba <|-- PooblaščeniZaposlen
 UradnaOseba <|-- Predstojnik
 UradnaOseba <|-- Inšpektor
@@ -99,8 +101,6 @@ Predstojnik --> Organ : vodi
 
 UradnaOseba <-- Organ : določi
 
-UradnaOseba --> "1" UdelezenecPostopka : vodi postopek
-UradnaOseba --> "1" UdelezenecPostopka : odloča v postopku
 
-FizičnaOseba --> StrokovniPomočnik : ne zastopa stranke
+Stranka --> StrokovniPomočnik : lahko ima in ne zastopa stranke
 ```
