@@ -11,9 +11,9 @@ ZD --> |poseben postopek| ID[Dokazovanje  - Izvajanje dokazov č164]
     ID --> |če ni predrago| OG[Ogled č199]
         OG --> UDS
     ID --> UDS[Ugotavljanje dejanskega stranja č139]
-ZD --> |Dejstvo za katero nismo pristojni| PPPV[Prekinitev postopka in čakanje, da se razreši predhodno vprašanje č147]
+ZD --> |Dejstvo za katero organ ni pristojen| PPPV[Prekinitev postopka in čakanje, da se razreši **predhodno vprašanje** pri drugem organu č147]
     PPPV --> DZ
-ZD --> |Skrajšan postopek| DZ
+ZD --> |Skrajšan postopek<BR>dejansko stanje iz vloge ni sporno<BR>uradne evidence<BR>nujno javni interes<BR>zakonsko verjetna dejstva OK| DZ
 UDS --> DZ{Dokazi zbrani}
 DZ --> |DA| OD[Odločanje]
     OD --> UO[Ustna obravnava, seznanitev pred izdajo odločbe č146, č154-163]
