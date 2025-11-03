@@ -1,6 +1,14 @@
 ## Stranka v postopku razredni diagram
 
 ```mermaid
+---
+config:
+  themeCSS: |
+    #special rect {
+      stroke: red !important;
+      fill: yellow !important;
+    }
+---
 classDiagram
 
 class UdelezenecPostopka{
