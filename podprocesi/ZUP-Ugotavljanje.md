@@ -11,6 +11,7 @@ ZD --> |poseben postopek| ID[Dokazovanje  - Izvajanje dokazov po načelu materia
     ID --> |če ni predrago| OG[Ogled č199]
         OG --> UDS
     ID --> UDS[Ugotavljanje dejanskega stranja č139]
+    STRANKA[Stranka navaja dejstva, seodeuje izvaja dokaze, ugovarja, sprašuje se izreka] --> UDS
 ZD --> |Dejstvo za katero organ ni pristojen| PPPV[Prekinitev postopka in čakanje, da se razreši **predhodno vprašanje** pri drugem organu č147]
     PPPV --> DZ
 ZD --> |Skrajšan postopek<BR>dejansko stanje iz vloge ni sporno<BR>uradne evidence<BR>nujno javni interes<BR>zakonsko verjetna dejstva| DZ
