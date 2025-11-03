@@ -103,4 +103,6 @@ UradnaOseba <-- Organ : določi
 
 
 Stranka --> StrokovniPomočnik : lahko ima in ne zastopa stranke
+style Stranka fill:#808080,stroke:#333,stroke-width:4px
+style UradnaOseba fill:#808080,stroke:#333,stroke-width:4px
 ```
