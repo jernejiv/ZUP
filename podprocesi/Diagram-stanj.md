@@ -11,7 +11,7 @@ Prekinjen --> Uveden : Odločba pristojenga organa dokončna
 Prekinjen --> [*] : Umik
 Uveden --> Prekinjen : Predhodno vprašanje
 Uveden --> Odločen : Izdana odločba
-Uveden --> Poravnan : Poravnava
+Uveden --> Poravnan : Sklenjen zapisnik o poravnavi
 Uveden --> PrekinitevDejanj : Zahteva za izločitev uradne osebe
 PrekinitevDejanj --> Uveden : Sklep o izločitvi dokončen
 Poravnan --> [*] : Sklenjena pogodba
@@ -21,7 +21,7 @@ Vročen --> Dokončen : Protižba ni vložena ali ni možna
 Vročen --> MožnostIzvršitve : Pritožba ne zadrži izvršitve
 Vročen --> Pritožba : Vložena je pritožba
 Dokončen --> Odločen : Vrnitev v prejšnje stanje
-Dokončen --> MožnostIzvršitve
+Dokončen --> MožnostIzvršitve : sklep o dokočnosti
 Dokončen --> Pravnomočen : sodba ni vložena
 Pritožba --> Sodba : Vložena je sodba
 Pritožba --> Dokončen : Pritožba zavrnjena
@@ -30,5 +30,5 @@ Sodba --> Pravnomočen: Sodba negativna
 Pravnomočen --> MožnostIzvršitve
 MožnostIzvršitve --> Izvršen : Obveznost plačana ali izvedena
 MožnostIzvršitve --> [*] : Pravica se uveljavi
-Izvršen --> [*]
+Izvršen --> [*] : izvršitev preverjena
 ```
