@@ -11,7 +11,7 @@ NZ E1@--> |DA| KV{Način}
         VUO -->  FO
     KV --> |posta - fizična| VDEJ[fizični osebi, ki opravlja vročanje dokumentov kot svojo dejavnost]
         VDEJ --> FO
-        FO{Osebno<BR> vročanje<BR> rok}
+        FO{Osebno<BR> vročanje<BR> rok pomemben}
         FO --> |NE| PNOV[Pošiljanje po navadni pošti]
             PNOV --> VRO
         FO --> |DA| VO[Vročilnica oddana č87, č96]
