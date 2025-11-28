@@ -34,9 +34,9 @@ Osnovni postopek je lahko nadgrajen z sledečim postopkom:
 - Pritožba - [Diagram poteka pritožbe](podprocesi/ZUP-pritozba.md)
 - Tožba - drugi zakon ZUS [Diagram poteka ZUS](ZUS.md)
 
-Osnovni diagram poteka je v datoteki: [ZUP-main-procedure.md]
+Osnovni diagram poteka je opisan: [ZUP-main-procedure.md]
 
-[Diagram prehajanja stranja za upravni postopek](podprocesi/Diagram-stanj.md)
+Zelo zanimiv prikaz diagrama prehanjanji stanj, ki opisujejo pri katerih dokodkih se prehaja med stanji: [Diagram prehajanja stranja za upravni postopek](podprocesi/Diagram-stanj.md)
 
 ## Razredni diagrami
 
@@ -47,10 +47,10 @@ Osnovni diagram poteka je v datoteki: [ZUP-main-procedure.md]
 [Diagram poteka ZUS](ZUS.md)
 
 
-## Postopek pritožbe po izdani odločbi
-[Diagram poteka pritožbe](podprocesi/ZUP-pritozba.md)
-
-[Diagram podprocesa stroške](podprocesi/stroski.md)
+## Nekaj dodatnih opisov postopkov
+- podrobni prikaz pritožbe - [Diagram poteka pritožbe](podprocesi/ZUP-pritozba.md)
+- kako delimo stroške [Diagram poteka za stroške](podprocesi/stroski.md)
+- zanimiv prikaz kdaj je odločba dokočna [Dokočnost odločbe](podprocesi/dokoncnost-akta.md)
 
 
 
