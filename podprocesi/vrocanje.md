@@ -2,7 +2,7 @@
 Pravne posledice odločbe ali sklepa lahko nastanejo šele po njegovi vročitvi
 Kadar ima stranka zakonitega zastopnika ali pooblaščenca, se vroča njemu.
 Uradna oseba se mora vprašati 
-- ali je rok pisanja pomemben
+- ali je rok pisanja pomemben ( pri odločbah je)
 - ali lahko vroča elektronsko po prioriteti, email na vlogi, vrani elektronski predal, drugi predal, registriran e-mail
 - Komu vroča glede na tip osebe, pravna/fizična oseba
 - ali sploh imamo naslov za dostavo in ali jih je preverč, recimo več kot 20
