@@ -66,7 +66,7 @@ Imamo sklepe: č226 - č228
 (5) Pritožba ne zadrži izvršitve sklepa razen, če je z zakonom ali s samim sklepom drugače določeno. Tudi v 224 piše nekaj podobnega
 - Sklep se naznani prizadetim osebam ustno, pisno pa se izda, če ima stranka zoper sklep pravico pritožbe. 
 - imamo sklepe, kjer je pritožba možna in je v zakonu eksplicitno zapisana
-- imamo sklepe, kjer pritožba ne zadrži izvršitve
+- imamo sklepe, kjer pritožba zadrži izvršitev - v bistvu je samo eden
 
 Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, da zoper sklep ni pritožbe.
 Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, pritožba na sklep ne zadrži izvršitve.
