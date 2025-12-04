@@ -87,6 +87,7 @@ class Sklep~Odločba~ {
     +PriotbaZadrziIzvrsitev(): privzeto DA
 }
 
+Pritozba -- PoukPravnegaSredstva
 
 Odločba "1" *-- "1" Uvod: mora imeti
 Odločba "1" *-- "1" Izrek: mora imeti
