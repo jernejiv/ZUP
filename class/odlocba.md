@@ -75,6 +75,11 @@ class Pritozba{
     +razlog: String
 }
 
+class Tožba{
+    +razlogi: Enumeration
+    +zahteve: Enumeration
+}
+
 class Sklep~Odločba~ {
     +uvod: Uvod
     +naziv: String
@@ -88,6 +93,8 @@ class Sklep~Odločba~ {
 }
 
 Pritozba -- PoukPravnegaSredstva
+Pritozba -- Tožba : če je vložena Pritožba
+Tožba "0" -- "1" Odločba
 
 Odločba "1" *-- "1" Uvod: mora imeti
 Odločba "1" *-- "1" Izrek: mora imeti
