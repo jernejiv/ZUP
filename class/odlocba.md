@@ -1,18 +1,23 @@
 ## Odločba razredni diagram
 
 ```mermaid
-classDiagram
+---
+config:
+  layout: elk
+---
+classDiagram-elk
 class Odločba {
     +št: String
     +datum: Datum
     +uvod: Uvod
     +naziv: String
-    +izrek: Izrek
+    +izrek: Izrek : dispoziv
     +obrazložitev: Obrazložitev
     +pouk: PoukPravnegaSredstva
     +podpis: String
+    +status: StatusOdločba
+    +načinUvedbe: NačinUvedbe
     +vročitev()
-    +statusOdločbe():StatusOdločba
     +pritožba()
     +tožba()
 }
@@ -25,7 +30,7 @@ class Uvod {
     +zadeva: String
 }
 
-class Izrek {
+class Izrek~Dispoziv~ {
     +predmetPostopka: String
     +zahtevki: String[]
     +stroški: String
@@ -66,8 +71,36 @@ class NačinUvedbe {
     + UradnaDolžnost
 }
 
-Odločba "1" *-- "1" Uvod
-Odločba "1" *-- "1" Izrek
+class Pritozba{
+    +razlog: String
+}
+
+class Sklep~Odločba~ {
+    +uvod: Uvod
+    +naziv: String
+    +izrek: Izrek
+    +podpis: String
+    +Ustni(): bool
+    +Koncni(): bool
+    +Ivršljiv(): bool
+    +pritozbaMozna: privzeto NE
+    +PriotbaZadrziIzvrsitev(): privzeto DA
+}
+
+
+Odločba "1" *-- "1" Uvod: mora imeti
+Odločba "1" *-- "1" Izrek: mora imeti
 Odločba "1" *-- "1" Obrazložitev
 Odločba "1" *-- "1" PoukPravnegaSredstva
+Odločba "1" *-- "0" Pritozba : privzeto ima možnost
+Odločba "1" *-- "1" StatusOdločba
+Odločba "1" *-- "1" NačinUvedbe
+
+Sklep "1" *-- "1" Uvod: mora imeti
+Sklep "1" *-- "1" Izrek: mora imeti
+Sklep "1" *-- "0" Obrazložitev: pod pogojem, pritožba možna
+Sklep "1" *-- "0" PoukPravnegaSredstva: pod pogojem, pritožba možna
+Sklep "1" *-- "0" Pritozba : V zakonu zapisana možnost
+
 ```
+
