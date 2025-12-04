@@ -5,7 +5,7 @@
 config:
   layout: elk
 ---
-classDiagram-elk
+classDiagram
 class Odločba {
     +št: String
     +datum: Datum
