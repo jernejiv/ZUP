@@ -67,7 +67,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č267 |pritožba dovoljena č267, ne zadrži izvršitve Preizkus predloga o obnovi postopka je negativen –> odločba o zavrnitvi
 - č267 |pritožba dovoljena č271| Preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
 - č267 |pritožba dovoljena č268 ali č271| Organ po uradni dolžnosti ugotovi, da preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
-- č290 |pritožba dovoljena č292, č258 ne zadrži izvršitve???| Dovolitev izvršbe – organ izda sklep, ko ugotovi. Pritožba ne zadrži izvedbe izvršbe. Organ pa lahko zadrži izvedbo, če ima razlog – kako pa
+- č290 |pritožba dovoljena č292, č258 ne zadrži izvršitve???| **Dovolitev izvršbe** – organ izda sklep, ko ugotovi. Pritožba ne zadrži izvedbe izvršbe. Organ pa lahko zadrži izvedbo, če ima razlog – kako pa
 - izvršba po drugi osebi - Organ se lahko ustavi ali odloži, ampak kako na podlagi katerega sklepa – sklep izvršljiv ?  ali pritožba ne zadrži izvršitve – je še privzeto
 - č297 Uradna oseba lahko izda sklep - Založitev zneska izvršbe
 - č301 |pritožba dovoljena|Izvršba v zavarovanje – sklep
