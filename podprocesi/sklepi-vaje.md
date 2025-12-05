@@ -16,12 +16,13 @@ Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, da zoper sklep ni pri
 Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, pritožba na sklep ne zadrži izvršitve, saj je to privzeto.
 
 Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
-- č27 **spor o pristojnosti** - nadzorni organ s sklepom določi kdo je pristojen, na predlog
-- č38 ??? |č258| sklep o **izločitvi** predstojnika, pooblaščene uradne osebe ali zapisnikarja
+- č27 **spor o pristojnosti** - nadzorni organ s sklepom določi kdo je pristojen, na predlog ni pritožbe, samo spor
+- č38 sklep o **izločitvi** predstojnika, pooblaščene uradne osebe ali zapisnikarja
 - č39 |pritožba dovoljena| sklep o zavrnitvi strankine zahteve za izločitve predstojnika, pooblaščene uradne osebe ali zapisnikarja
 - č50 |končni, pritožba dovoljena| če stranka **umr**e ali preneha delovati – sklep o ustavitvi
 - č51 **začasni zastopnik** – sklep pri več variantah vhodnih pogojev
-- č52 |pritožba dovoljena| sklep, ki nalaga **skupnega predstavnika**, če ne je nov sklep kjer organ določi
+- č52 sklep, ki nalaga naj določijo **skupnega predstavnika**
+- č52 |pritožba dovoljena| sklep, katarega organ odloči **skupnega predstavnika**, če ne je nov sklep kjer organ določi
 - č55 pristnost pisnega pooblastila – sklep o potrditvi
 - č65 |končni, pritožba dovoljena| pristojnost – **sklep o zavrženju**
 - č65 - č129 |končni, pritožba dovoljena| ni upravna zadeva – sklep o zavrženju
@@ -29,7 +30,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č73 |pritožba dovoljena| če na vabilo ne pride se izda sklep privedba, kazni ali plačilo stroškov
 - č82 |pritožba dovoljena| sklep o zavrnitvi zahteve za **pregled dokumentacije**
 - č96 kako veš, da moraš izdati sklep??? sklep o vročanju na oglasni deski
-- č99 sklep o podaljšanju roka – zakaj piše, da ni pritožbe, če je že default ???
+- č99 sklep o podaljšanju roka – zakaj piše, da ni pritožbe, če je že privzeto ??? ker se v tem primeru tudi na odločbi ni možno pritožiti
 - č102 opravljanje na naroka, ki ni v poslopju organa se izda sklep
 - č106a |pritožba NI dovoljena č107| za odločitev predloga za **vrnitev prejšnje stanje** se izda sklep
 - č106b |pritožba dovoljena č107| za odločitev predloga za **vrnitev prejšnje stanje** se izda sklep
@@ -37,7 +38,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č115 sklep o založitvi potrebnega zneska
 - č118 |končni, pritožba dovoljena| **sklep o stroških** – lahko tudi poseben sklep, ni nujno v odločbi
 - č119 |pritožba dovoljena| znesek povračil stroškov se ugotovi s sklepom
-- č122 oprostitev plačila stroškov izda se sklep
+- č122 oprostitev plačila stroškov izda se sklep, ali je negativen sklep je dovoljena pritožba?
 - č129 |končni, pritožba dovoljena| preizkus procesnih predpostavk – **sklep o zavrženju**
 - č130 |pritožba dovoljena| združitev v en postopek
 - č131 - 132 začetek postopka za **javnim naznanilom** – večje število oseb in so neznane
@@ -59,6 +60,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č202 |pritožba dovoljena| Morebitna škoda pri ogledu – sklep
 - č206 |pritožba dovoljena| Zavarovanje dokazov – sklep
 - č223 |pritožba dovoljena| **Poprava pomote** se izda sklep
+Pritožbeni postopek
 - č229 |pritožba dovoljena| Vročitev odločbe organ ne ugodi – izdano sklep zavrže
 - č240 |pritožba dovoljena| Pritožba ni dovoljena na prvi stopnji sklep o zavrženju
 - č256 **Umik pritožbe**, sklep o ustavitvi pritožbenega postopka
@@ -67,6 +69,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č267 |pritožba dovoljena č267, ne zadrži izvršitve Preizkus predloga o obnovi postopka je negativen –> odločba o zavrnitvi
 - č267 |pritožba dovoljena č271| Preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
 - č267 |pritožba dovoljena č268 ali č271| Organ po uradni dolžnosti ugotovi, da preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
+Izvršbeni postopek
 - č290 |pritožba dovoljena č292, č258 ne zadrži izvršitve???| **Dovolitev izvršbe** – organ izda sklep, ko ugotovi. Pritožba ne zadrži izvedbe izvršbe. Organ pa lahko zadrži izvedbo, če ima razlog – kako pa
 - izvršba po drugi osebi - Organ se lahko ustavi ali odloži, ampak kako na podlagi katerega sklepa – sklep izvršljiv ?  ali pritožba ne zadrži izvršitve – je še privzeto
 - č297 Uradna oseba lahko izda sklep - Založitev zneska izvršbe
