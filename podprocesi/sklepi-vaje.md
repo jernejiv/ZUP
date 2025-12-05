@@ -11,6 +11,7 @@ Sklep se naznani prizadetim osebam ustno, pisno pa se izda, če ima stranka zope
 - Poznamo sklepe katerih postopek se konča in druge. Pri sklepih, ki so končni bi morala biti možnost pritožbe
 - imamo sklepe, kjer je pritožba možna in je v zakonu eksplicitno zapisana
 - imamo sklepe, kjer pritožba zadrži izvršitev - v bistvu je samo eden kjer to eksplicitno piše
+- imamo en sklep o vrnitvi v prejšnje stanje kjer eksplicitno piše, da pritožba ni možna. Takrat v pouk o pravnem sredstvu napišem, da je možen spor na upravno sodišče v roku 30 dni od vročitve upravnega akta.
 
 Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, da zoper sklep ni pritožbe, saj je to privzeto.
 Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, pritožba na sklep ne zadrži izvršitve, saj je to privzeto.
@@ -60,6 +61,7 @@ Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č202 |pritožba dovoljena| Morebitna škoda pri ogledu – sklep
 - č206 |pritožba dovoljena| Zavarovanje dokazov – sklep
 - č223 |pritožba dovoljena| **Poprava pomote** se izda sklep
+
 Pritožbeni postopek
 - č229 |pritožba dovoljena| Vročitev odločbe organ ne ugodi – izdano sklep zavrže
 - č240 |pritožba dovoljena| Pritožba ni dovoljena na prvi stopnji sklep o zavrženju
@@ -69,6 +71,7 @@ Pritožbeni postopek
 - č267 |pritožba dovoljena č267, ne zadrži izvršitve Preizkus predloga o obnovi postopka je negativen –> odločba o zavrnitvi
 - č267 |pritožba dovoljena č271| Preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
 - č267 |pritožba dovoljena č268 ali č271| Organ po uradni dolžnosti ugotovi, da preizkus predloga o obnovi postopka je pozitiven –> sklep o nadaljevanju in obseg
+
 Izvršbeni postopek
 - č290 |pritožba dovoljena č292, č258 ne zadrži izvršitve???| **Dovolitev izvršbe** – organ izda sklep, ko ugotovi. Pritožba ne zadrži izvedbe izvršbe. Organ pa lahko zadrži izvedbo, če ima razlog – kako pa
 - izvršba po drugi osebi - Organ se lahko ustavi ali odloži, ampak kako na podlagi katerega sklepa – sklep izvršljiv ?  ali pritožba ne zadrži izvršitve – je še privzeto
