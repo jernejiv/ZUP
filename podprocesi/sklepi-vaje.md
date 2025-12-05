@@ -1,3 +1,21 @@
+V okviru ZUP-a se izdajajo *odločbe*, ki po zakonu morajo imeti določeno obliko in lasnot (glej člen 210)
+– privzeto ima odločba možnost pritožbe in NI takoj izvršljiva
+
+Imamo tudi *sklepe* glej člene č226 - č228 in 258.
+Nekaj lastnost sklepov, ki pa pravzemajo lastnosti od odločbe, čeprav nikjer v zakonu to ne piše.
+Pritožba zoper sklep - 258. člen
+(1) Zoper sklep je dovoljena pritožba samo takrat, kadar je z zakonom izrecno tako določeno.
+(5) Pritožba ne zadrži izvršitve sklepa razen, če je z zakonom ali s samim sklepom drugače določeno. Tudi v 
+224 piše nekaj podobnega. 
+Sklep se naznani prizadetim osebam ustno, pisno pa se izda, če ima stranka zoper sklep pravico pritožbe. 
+- Poznamo sklepe katerih postopek se konča in druge. Pri sklepih, ki so končni bi morala biti možnost pritožbe
+- imamo sklepe, kjer je pritožba možna in je v zakonu eksplicitno zapisana
+- imamo sklepe, kjer pritožba zadrži izvršitev - v bistvu je samo eden kjer to eksplicitno piše
+
+Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, da zoper sklep ni pritožbe, saj je to privzeto.
+Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, pritožba na sklep ne zadrži izvršitve, saj je to privzeto.
+
+Sezanm vseh pojavitev besede sklep je zbran v spodnjem seznamu:
 - č27 spor o pristojnosti - nadzorni organ s sklepom določi kdo je pristojen, na predlog
 - č38 ??? |č258| sklep o izločitvi predstojnika, pooblaščene uradne osebe ali zapisnikarja
 - č39 |pritožba dovoljena| strankina zahteva za izločitvev je zavrnjena
@@ -55,19 +73,3 @@
 - č297 Uradna oseba lahko izda sklep - Založitev zneska izvršbe
 - č301 |pritožba dovoljena|Izvršba v zavarovanje – sklep
 - č304 Začasni sklep za zavarovanje
-
-
-Imam odločbe č210 – privzeto je možnost pritožbe in NI izvršljiva
-Imamo sklepe: č226 - č228
-- katerih postopek se konča – izvršba ni del postopka
-- katerih postopek se ne konča
--  Pritožba zoper sklep - 258. člen
-(1) Zoper sklep je dovoljena pritožba samo takrat, kadar je z zakonom izrecno tako določeno.
-(5) Pritožba ne zadrži izvršitve sklepa razen, če je z zakonom ali s samim sklepom drugače določeno. Tudi v 224 piše nekaj podobnega
-- Sklep se naznani prizadetim osebam ustno, pisno pa se izda, če ima stranka zoper sklep pravico pritožbe. 
-- imamo sklepe, kjer je pritožba možna in je v zakonu eksplicitno zapisana
-- imamo sklepe, kjer pritožba zadrži izvršitev - v bistvu je samo eden
-
-Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, da zoper sklep ni pritožbe.
-Ne sme nas zmotit dikcija kjer v zakonu eksplicitni piše, pritožba na sklep ne zadrži izvršitve.
-Če sklep konča postopek mora biti dovoljena pritožba – ali je kakšen protiprimer?
