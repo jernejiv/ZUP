@@ -11,6 +11,7 @@ Pri nekaterih izrednih pravnih stredsvtih so razlogi za ugovor zoženi na določ
 
 V primeru molka organa lahko odloči organ na drugi stopnji.
 Pri pregledu pritožbe na prvi stopnji lahko opravi samo preizkus procesnih predpostavk.
+Obnova postopka, ki je končan z odločbo, zoper katero v upravnem postopku ni rednega pravnega sredstva je možen glede na razloge ...
 
 | **Možna kršitev ali razlog za ugovor**                       | **Opomba**                                                                   | **Ref na zakon** | **Možnost ugovora ali ugotovitve** | **Po izdani odločbi razlogi za pritožbo** | **Obnova postopka** | **Izredno sredstvo** |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------- | ---------------------------------- | ----------------------------------------- | ------------------- | -------------------- |
