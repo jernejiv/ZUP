@@ -1,11 +1,13 @@
 ## Možni razlogi ugovorov
 
+Stranka ima možnost sodelovati in ugovarjati dejanjem v postopku uvedbe, odločitvenem ali v pritožbebnem.
+Enakovredno lahko tudi organ ugotovi kršitve in na drugi strani z dejasnji potencialno nehote poda razloge za ugovor.
+Možnost ugovora stranke s predlogom ali ugotovitve organa.
+
 Stranka lahko v pritožbi ugovarja karkoli. V primeru, da razloga ni v spodnji tabeli se šteje, da je Nebistveni razlog.
 Pri pregledu pritožbe na prvi stopnji se gledajo samo razlogi iz preizkusa.
 Na drugi stopnji pritožbe se gledajo samo podani razlogi iz pritožbenega dokumenta in ne ostalo, no zavrženje se tudi gleda.
-Nekateri razlogi se vežejo na izdano odločbo zato ni možno ugovarjati pred odločbo.
-
-Možnost ugovora stranke s predlogom ali ugotovitve organa
+Pri nekaterih izrednih pravnih stredsvtih so razlogi za ugovor zoženi na določene kršitvene razloge.
 
 | **Možna kršitev**                                            | **Opomba**                                                                   | **Ref na zakon** | **Pred uvedbo**     | **Po uvedbi in pred odločbo** | **Po izdani odločbi razlogi za pritožbo** | **Pregled pritožbe**       | **Obnova postopka** | **Izredno sredstvo** |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------- | ------------------- | ----------------------------- | ----------------------------------------- | -------------------------- | ------------------- | -------------------- |
