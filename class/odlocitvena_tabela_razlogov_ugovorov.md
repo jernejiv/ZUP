@@ -2,8 +2,8 @@ V upravnem postopku lahko gre veliko stvari narobe, spodaj je zbranih nekaj dogo
 
 ## Možni razlogi ugovorov
 
-**Stranka** mora imeti možnost sodelovati in ugovarjati dejanjem v postopku uvedbe, odločitvenem postopku ali v pritožbebnem postopku.
-Enakovredno lahko tudi **organ** ugotovi kršitve in ustrezno reagira z dejanji. Uradna oseba organa, ki izvaja oblast, lahko z dejanji potencialno nehote izpolni pogoje za ugovor in tako nastanejo razlogi za pritožbo.
+**Stranka** mora imeti možnost sodelovati in **ugovarjati** dejanjem v postopku uvedbe, odločitvenem postopku ali v pritožbebnem postopku.
+Enakovredno lahko tudi **organ ugotovi** kršitve in ustrezno reagira z dejanji. Uradna oseba organa, ki izvaja oblast, lahko z dejanji potencialno nehote izpolni pogoje za ugovor in tako nastanejo razlogi za pritožbo.
 
 ## Dodatna Razlaga tabele
 Stranka lahko v pritožbi poda katerikolo razlog ugovara, v pritožbi ni omejitev. V primeru, da razloga ni v spodnji tabeli se šteje, da je Nebistveni razlog.
