@@ -14,6 +14,7 @@ Obnova postopka, ki je končan z odločbo, zoper katero v upravnem postopku ni r
 Hujše kršitve omogočajo uporabo izrednih pravnih sredstev obnova postopka, ničnost.
 
 V primeru molka organa lahko prevzame v reševanje organ druge stopnje in odloči.
+Pri izrednih pravnih sredstvih se praviloma izpodbija dokončni upravni akt.
 
 | **Možna kršitev ali razlog za ugovor**                       | **Vidik**   | **Možnost ugovora ali ugotovitve** | **Po izdani odločbi razlogi za pritožbo** | **Obnova postopka** | **Izredno sredstvo** | **Ref na zakon** | **Opomba**                                                                                           |
 | ------------------------------------------------------------ | ----------- | ---------------------------------- | ----------------------------------------- | ------------------- | -------------------- | ---------------- | ---------------------------------------------------------------------------------------------------- |
