@@ -1,21 +1,19 @@
-V upravnem postopku lahko gre veliko stvari narobe, spodaj je zbranih nekaj dogodkov, ki so potencialno lahko razlogi za različne možnosti pritožb iz različnih vidikov.
+V upravnem postopku lahko gre veliko stvari narobe, spodaj je zbranih nekaj dogodkov, ki so potencialno lahko razlogi za različne možnosti ugovorov ali pritožb iz različnih vidikov.
 
 ## Možni razlogi ugovorov
 
-Stranka ima možnost sodelovati in ugovarjati dejanjem v postopku uvedbe, odločitvenem ali v pritožbebnem.
-Enakovredno lahko tudi organ ugotovi kršitve in na drugi strani z dejasnji potencialno nehote poda razloge za ugovor.
-Možnost ugovora stranke s predlogom ali ugotovitve organa.
+**Stranka** mora imeti možnost sodelovati in ugovarjati dejanjem v postopku uvedbe, odločitvenem postopku ali v pritožbebnem postopku.
+Enakovredno lahko tudi **organ** ugotovi kršitve in ustrezno reagira z dejanji. Uradna oseba organa, ki izvaja oblast, lahko z dejanji potencialno nehote izpolni pogoje za ugovor in tako nastanejo razlogi za pritožbo.
 
-Stranka lahko v pritožbi ugovarja karkoli. V primeru, da razloga ni v spodnji tabeli se šteje, da je Nebistveni razlog.
-Pri pregledu pritožbe na prvi stopnji se gledajo samo razlogi iz preizkusa.
-Na drugi stopnji pritožbe se gledajo samo podani razlogi iz pritožbenega dokumenta in ne ostalo, no zavrženje se tudi gleda.
-Pri nekaterih izrednih pravnih stredsvtih so razlogi za ugovor zoženi na določene kršitvene razloge.
+## Dodatna Razlaga tabele
+Stranka lahko v pritožbi poda katerikolo razlog ugovara, v pritožbi ni omejitev. V primeru, da razloga ni v spodnji tabeli se šteje, da je Nebistveni razlog.
+Pri pregledu v pritožbenem postopku organ na prvi stopnji gleda samo razloge iz preizkusa in ne vsebinsko.
+Organ na drugi stopnji pritožbe najprej naredi preizkus, nat pa gleda samo podane razlogi iz pritožbenega dokumenta.
+Pri izrednih pravnih stredsvtih so razlogi za ugovor zoženi na določene kršitvene razloge. V primeru, da niso razlog za ugovor ni naštet se ugovor zavrže.
+Obnova postopka, ki je končan z odločbo, zoper katero v upravnem postopku ni rednega pravnega sredstva je možen glede na razloge ... Ali lahko obnovno postopka, če je redno pravno sredstvo?
+Hujše kršitve omogočajo uporabo izrednih pravnih sredstev obnova postopka, ničnost.
 
-V primeru molka organa lahko odloči organ na drugi stopnji.
-Pri pregledu pritožbe na prvi stopnji lahko opravi samo preizkus procesnih predpostavk.
-Obnova postopka, ki je končan z odločbo, zoper katero v upravnem postopku ni rednega pravnega sredstva je možen glede na razloge ...
-
-Hujše kršitve omogočajo uporabo izrednih pravnih sredstev obnova postopa, ničnost.
+V primeru molka organa lahko prevzame v reševanje organ druge stopnje in odloči.
 
 | **Možna kršitev ali razlog za ugovor**                       | **Vidik**   | **Možnost ugovora ali ugotovitve** | **Po izdani odločbi razlogi za pritožbo** | **Obnova postopka** | **Izredno sredstvo** | **Ref na zakon** | **Opomba**                                                                                           |
 | ------------------------------------------------------------ | ----------- | ---------------------------------- | ----------------------------------------- | ------------------- | -------------------- | ---------------- | ---------------------------------------------------------------------------------------------------- |
