@@ -240,3 +240,33 @@ Tožnik <|-- ZastopnikJavnegaInteresa
 style Sodba stroke:#8eebee
 %% linkStyle 4 stroke:red;
 ```
+
+## Tožbeni razlogi in zahteve - nekaj primerov
+
+| Tožbeni razlogi glede na odločbo                      | Zahteva                      | Sodba     | Akcija                                                                      |
+| ----------------------------------------------------- | ---------------------------- | --------- | --------------------------------------------------------------------------- |
+| kršitev materialnega prava/predpisa                   | Sprememba upravnega akta     | Meritorna | Spor polne juristikcije, odpravi akt in izda sodbo s katero odloči o stvari |
+| kršitev materialnega prava/predpisa                   |                              | Sodba     | Ugodi in odpravi akti, sporo zakonitosti                                    |
+| kršitev pravil postopka                               | Odprava upravnega akta       | Sodba     |                                                                             |
+| kršitev pravil postopka                               | Izdaja upravnega akta        | Sodba     | Zahteva se, da se o zadevi odloči, Molk organa                              |
+| nepravilna ali nepopolna ugotovitev dejanskega stanja | Odprava upravnega akta       | Sodba     |                                                                             |
+| ničnosti razlogi                                      | Odprava upravnega akta       | Sklep     | Sklep o ničnosti                                                            |
+| kršitev človekovih pravic                             | prepoved nadaljevanja dejanj |           |                                                                             |
+| kršitev človekovih pravic                             | odprava posledic dejanja     |           |                                                                             |
+
+## Pravna sredstva sodbe
+
+| Kršitve upravnega spora                                                                              | Pritožba | Revizija | Obnova |
+| ---------------------------------------------------------------------------------------------------- | -------- | -------- | ------ |
+| bistvene kršitve določb postopka v upravnem sporu                                                    | DA       | DA       |        |
+| zmotne uporabe materialnega prava ali zmotne presoje pravilnosti postopka izdaje upravnega akta      | DA       | DA       |        |
+| zmotne ali nepopolne ugotovitve dejanskega stanja                                                    | DA       |          | DA     |
+| stranka zve za nova dejstva ali če najde nove dokaze                                                 |          |          | DA     |
+| se odločba opira na ponarejeno ali prenarejeno listino                                               |          |          | DA     |
+| sodišče ni bilo sestavljeno po določbah tega zakona                                                  |          |          | DA     |
+| sodnik ni bil izločen                                                                                |          |          | DA     |
+| se je postopka udeleževal nekdo, ki ne more biti stranka                                             |          |          | DA     |
+| se odločba opira na sodbo, ki je bila izdana v kazenski ali civilni zadev, ki je bila razveljavljena |          |          | DA     |
+| prišlo do odločbe sodišča zaradi kaznivega dejanja sodnika                                           |          |          | DA     |
+| Stranka najde duplikat                                                                               |          |          | DA     |
+| prizadeti osebi ni bila dana možnost udeležbe v upravnem sporu                                       |          |          | DA     |
