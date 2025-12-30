@@ -54,7 +54,8 @@ Zelo zanimiv prikaz diagrama prehanjanji stanj, ki opisujejo pri katerih dokodki
 - kako delimo stroške [Diagram poteka za stroške](podprocesi/stroski.md)
 - zanimiv prikaz kdaj je odločba dokočna [Dokočnost odločbe](podprocesi/dokoncnost-akta.md)
 - [pravna sredstva na drugačen način](podprocesi/Pravna_sredstva.md)
-Zelo priročen je bil vidik razlogov za ugovor ali napake in kako gre to čez celoten postopek do upravnega spora.
+
+Zelo priročen je bil **vidik razlogov za ugovor** ali napake in kako gre to čez celoten postopek do upravnega spora.
 Poglejte si [tabelo](class/odlocitvena_tabela_razlogov_ugovorov.md)
 
 # Pisni izpit
