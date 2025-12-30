@@ -42,6 +42,8 @@ Zelo zanimiv prikaz diagrama prehanjanji stanj, ki opisujejo pri katerih dokodki
 
 - [Stranka v postopku](class/stranka.md)
 - [Odločba](class/odlocba.md)
+- [Dokazna sredstva](class/dokazovanje.md)
+- [Globalni podakotvni model](class/ZUP-class.md)
 
 ## Zakon o upravnem sporu - ZUS
 [Diagram poteka ZUS](ZUS.md)
@@ -52,7 +54,8 @@ Zelo zanimiv prikaz diagrama prehanjanji stanj, ki opisujejo pri katerih dokodki
 - kako delimo stroške [Diagram poteka za stroške](podprocesi/stroski.md)
 - zanimiv prikaz kdaj je odločba dokočna [Dokočnost odločbe](podprocesi/dokoncnost-akta.md)
 
-
+Zelo priročen je bil vidik razlogov za ugovor ali napake in kako gre to čez celoten postopek do upravnega spora.
+Poglejte si [tabelo](class/odlocitvena_tabela_razlogov_ugovorov.md)
 
 
 
