@@ -53,10 +53,12 @@ Zelo zanimiv prikaz diagrama prehanjanji stanj, ki opisujejo pri katerih dokodki
 - podrobni prikaz pritožbe - [Diagram poteka pritožbe](podprocesi/ZUP-pritozba.md)
 - kako delimo stroške [Diagram poteka za stroške](podprocesi/stroski.md)
 - zanimiv prikaz kdaj je odločba dokočna [Dokočnost odločbe](podprocesi/dokoncnost-akta.md)
-
+- [pravna sredstva na drugačen način](podprocesi/Pravna_sredstva.md)
 Zelo priročen je bil vidik razlogov za ugovor ali napake in kako gre to čez celoten postopek do upravnega spora.
 Poglejte si [tabelo](class/odlocitvena_tabela_razlogov_ugovorov.md)
 
+# Pisni izpit
 
+Sem si izpisal vse pojavitve besede sklep v ZUP zakonu in poiskal njihove lastnosti. [link](podprocesi/sklepi-vaje.md)
 
 
