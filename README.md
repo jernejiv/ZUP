@@ -4,6 +4,8 @@ Zakon o splošnem upravnem postopku (ZUP) sodi med temeljne procesne zakone slov
 
 Povezava na zakon: https://pisrs.si/pregledPredpisa?id=ZAKO1603
 
+[Temeljna načela](podprocesi/temeljna_nacela.md)
+
 ## Opis posameznih diagramov za ZUP
 
 V tem dokumentu so zbrani opisi posameznih diagramov za  zakon o splošnem upravnem postopku. Imamo več vrst diagramov: diagram poteka (flowchart), razredni diagram (UML Class diagram) ali diagram stanj.
